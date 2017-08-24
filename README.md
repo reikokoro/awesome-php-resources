@@ -1,13 +1,13 @@
 # awesome-php-resources
 ##The curated list of awesome PHP frameworks, libraries and software.
 
-laravel/laravel - A PHP Framework For Web Artisans
-symfony/symfony - The Symfony PHP framework
-bcit-ci/CodeIgniter - Open Source PHP Framework (originally from EllisLab)
-domnikl/DesignPatternsPHP - sample code for several design patterns in PHP
-fzaninotto/Faker - Faker is a PHP library that generates fake data for you
-yiisoft/yii2 - Yii 2: The Fast, Secure and Professional PHP Framework
-composer/composer - Dependency Manager for PHP
+1. laravel/laravel - A PHP Framework For Web Artisans
+2. symfony/symfony - The Symfony PHP framework
+3. bcit-ci/CodeIgniter - Open Source PHP Framework (originally from EllisLab)
+4. domnikl/DesignPatternsPHP - sample code for several design patterns in PHP
+5. fzaninotto/Faker - Faker is a PHP library that generates fake data for you
+6. yiisoft/yii2 - Yii 2: The Fast, Secure and Professional PHP Framework
+7. composer/composer - Dependency Manager for PHP
 guzzle/guzzle - Guzzle, an extensible PHP HTTP client
 PHPMailer/PHPMailer - The classic email sending library for PHP
 PHPOffice/PHPExcel - A pure PHP library for reading and writing spreadsheet files
